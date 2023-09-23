@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
+
+
+
+nav {
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 30px;
+    
+}
+
